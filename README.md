@@ -5,4 +5,4 @@ Version 1.0:
 - Initial release
 
 Requirements:
-- Firefox Browser
+- Mozilla Firefox v57+
