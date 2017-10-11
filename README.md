@@ -1,2 +1,2 @@
 # extension.tv-polychroma.chrome
-Native Chrome extension for viewing TV Polychroma.
+Native Firefox extension for viewing TV Polychroma.
