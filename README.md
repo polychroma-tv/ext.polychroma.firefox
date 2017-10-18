@@ -5,7 +5,7 @@ Version 1.0:
 - Initial release
 
 Requirements:
-- Mozilla Firefox v57+
+- Mozilla Firefox v42+
 
 Available via:
 - Mozilla Add-ons: https://addons.mozilla.org/firefox/addon/tv-polychroma/
